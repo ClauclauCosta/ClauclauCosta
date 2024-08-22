@@ -13,6 +13,9 @@ Meu nome é Claudicéia Costa
 - ![](![image](![image](https://media.tenor.com/gfAyB3I48wcAAAAj/snoopy-abrazo-love.gif)
 
 
+![](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+
+
 
 
 
